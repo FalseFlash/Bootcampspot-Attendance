@@ -1,6 +1,10 @@
 ## Better Bootcamp Attendance
 This is a user script for the client side of the browser. It makes bootcampspot for Rutgers Coding Bootcamp a little better and also searchable.
 
+![Image of Yaktocat](http://g.recordit.co/tUFLxJLwXh.gif)
+
+
+
 ## Requirements
 * Tampermonkey addon for Chrome or Firefox
 * Bootcampspot account
